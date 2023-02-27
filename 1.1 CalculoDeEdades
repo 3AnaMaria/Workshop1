@@ -1,0 +1,7 @@
+Algoritmo CalculoDeEdades
+	Escribir 'Por favor digite su año de nacimiento'
+	leer anoDeNacimiento
+	actual<- 2023 - anoDeNAcimiento
+	Escribir 'La edad es ' actual
+FinAlgoritmo
+

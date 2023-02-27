@@ -1,0 +1,9 @@
+Algoritmo PrecioProductos
+	Escribir 'Digite el valor de cada producto'
+	Leer a,b,c,d,e
+		
+	subTotal<- a + b + c + d + e
+	IVA<- (subTotal * 0.19)
+	total<- subTotal + IVA
+	Escribir 'El subtotal de los productos es $' subTotal ' pesos , el IVA es $' IVA ' pesos y el total es $' total ' pesos'
+FinAlgoritmo

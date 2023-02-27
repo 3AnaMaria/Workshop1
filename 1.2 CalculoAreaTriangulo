@@ -1,0 +1,10 @@
+Algoritmo CalculoAreaTriangulo
+	Escribir 'Por favor digite base del triangulo'
+	leer base
+	Escribir 'Por favor digite altura del triangulo'
+	leer altura
+	base<- base
+	resultado<- 1/2 * base * altura
+	Escribir 'El  areal del triangulo seria ' resultado
+FinAlgoritmo
+

@@ -1,0 +1,11 @@
+Algoritmo PerimetroYAreaRectangulo
+	definir base, altura, perimetro, area Como Real
+	Escribir 'Por favor digite la base del rectángulo'
+	leer base
+	Escribir 'Por favor digite la altura del rectángulo'
+	leer altura
+	perimetro<- 2*(base+altura)
+	area<- base*altura
+	Escribir 'El perimetro del rectángulo es ' perimetro ' y el área del rectángulo es ' area
+FinAlgoritmo
+

@@ -1,0 +1,7 @@
+Algoritmo calculoCuadradoYRaiz500
+	numero<-500
+	
+	cuadrado <- numero*numero
+	raizCuadrada <- RC(numero)
+	Escribir 'El cuadrado de ' numero ' es ' cuadrado ' y su raiz cuadrada es ' raizCuadrada
+FinAlgoritmo

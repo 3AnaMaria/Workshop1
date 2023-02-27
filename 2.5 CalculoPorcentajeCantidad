@@ -1,0 +1,10 @@
+Algoritmo CalculoPorcentajeCantidad
+	Escribir 'Digite el numero que necesita calcular el porcenjate'
+	Leer valorA
+	Escribir 'Digite el valor del porcentaje que desea calcular'
+	leer porcentaje
+	
+	resultado<- valorA* (porcentaje/100)
+
+	Escribir 'El ' porcentaje '% de ' valorA ' es ' resultado
+FinAlgoritmo
